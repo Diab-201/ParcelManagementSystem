@@ -288,3 +288,4 @@ public class ParcelSystemView extends JFrame {
         SwingUtilities.invokeLater(() -> new ParcelSystemView().setVisible(true));
     }
 }
+
